@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/loginScreen">
+
+    <fragment
+        android:id="@+id/loginScreen"
+        android:name="uz.infinity.mytask.presentation.ui.screens.LoginScreen"
+        android:label="screen_login"
+        tools:layout="@layout/screen_login" >
+        <action
+            android:id="@+id/action_loginScreen_to_registerScreen"
+            app:destination="@id/registerScreen" />
+        <action
+            android:id="@+id/action_loginScreen_to_homeScreen"
+            app:destination="@id/homeScreen"
+            app:popUpTo="@id/loginScreen"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_loginScreen_to_resetPasswordScreen"
+            app:destination="@id/resetPasswordScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="uz.infinity.mytask.presentation.ui.screens.HomeScreen"
+        android:label="screen_home"
+        tools:layout="@layout/screen_home" />
+    <fragment
+        android:id="@+id/registerScreen"
+        android:name="uz.infinity.mytask.presentation.ui.screens.RegisterScreen"
+        android:label="screen_register"
+        tools:layout="@layout/screen_register" >
+        <action
+            android:id="@+id/action_registerScreen_to_homeScreen"
+            app:destination="@id/homeScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/resetPasswordScreen"
+        android:name="uz.infinity.mytask.presentation.ui.screens.ResetPasswordScreen"
+        android:label="screen_reset_password"
+        tools:layout="@layout/screen_reset_password" />
+</navigation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/bg_action_button.xml" value="0.185" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/bg_button.xml" value="0.185" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/bg_dialog.xml" value="0.1975" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/bg_white.xml" value="0.185" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/ic_back.xml" value="0.193" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/ic_launcher_background.xml" value="0.185" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/ic_menu.xml" value="0.193" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/ic_more.xml" value="0.193" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/drawable/rounded_dialog.xml" value="0.185" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/dialog_edit.xml" value="0.23802083333333332" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/dialog_event.xml" value="0.22395833333333334" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/dialog_funksion.xml" value="0.264" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/item_user.xml" value="0.264" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/screen_home.xml" value="0.19444444444444445" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/screen_login.xml" value="0.264" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/screen_register.xml" value="0.23802083333333332" />
+        <entry key="..\:/bootcamp_lessons/MyTask/app/src/main/res/layout/screen_reset_password.xml" value="0.23697916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

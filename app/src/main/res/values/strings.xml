@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="my_task">My task</string>
+
+    <!--LoginScreen-->
+    <string name="sing_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="reset_password">Reset password</string>
+    <string name="request_reset">Request reset</string>
+    <string name="set_new_password">Set new password</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
